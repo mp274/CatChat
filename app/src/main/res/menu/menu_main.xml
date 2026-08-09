@@ -13,4 +13,8 @@
         android:id="@+id/helpFragment"
         android:icon="@android:drawable/ic_menu_help"
         android:title="Help"/>
+    <item
+        android:id="@+id/catsFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Cats" />
 </menu>

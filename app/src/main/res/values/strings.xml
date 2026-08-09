@@ -2,4 +2,8 @@
     <string name="app_name">CatChat</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cats_header">Выберите кота для переписки</string>
+    <string name="cat_avatar">Аватар кота</string>
+    <string name="cat_about">О себе</string>
+    <string name="cat_write">Написать сообщение</string>
 </resources>
